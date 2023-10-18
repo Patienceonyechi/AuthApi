@@ -1,0 +1,7 @@
+declare module "*bcrypt"
+declare module "*jsonwebtoken"
+declare module "*express"
+declare module "*multer"
+declare module "*cors"
+declare module "*mongoose"
+declare module "*morgan"
